@@ -2,26 +2,26 @@
 
 ## HTML
 
-1. Egészítsd ki a az oldalt a hiányzó meta tagekkel!
-2. A böngésző címsorába a saját neved kerüljön.
-3. A .szoveg elnevezésű divekbe kerüljön bele a mintán látható felsorolás  és a kép!
-4. A láblécbe  a saját neved kerüljön. 
-5. Csatolj stíluslapot az index.html-hez
+1. Egészítsd ki a az oldalt a hiányzó meta tagekkel! W
+2. A böngésző címsorába a saját neved kerüljön. W
+3. A .szoveg elnevezésű divekbe kerüljön bele a mintán látható felsorolás  és a kép! W
+4. A láblécbe  a saját neved kerüljön. W
+5. Csatolj stíluslapot az index.html-hez W
 6. Készíts másolatot az index.html-ről (kétszer) és nevezd át úgy, hogy a navigáció működjön! Ehhez a navigáció linkjeit is módosítanod kell!
 
 ## CSS
 
 **Az oldal**
 
-betűtípusa:   'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-háttérszíne: #f0fdf4;
-betűszíne: #1a3e2e;
+betűtípusa:   'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; W
+háttérszíne: #f0fdf4; W
+betűszíne: #1a3e2e; W
 
 **A navigáció**
 
-háttérszíne:  #10b981;
-A belső margó: 1rem
-alsó margója: 2rem
+háttérszíne:  #10b981; W 
+A belső margó: 1rem  W
+alsó margója: 2rem   W
 
 **a navigáció linkjei**
 
@@ -36,28 +36,28 @@ Ha az egér a gomb fölé kerül A háttérszín sötétebb zöldre változik (#
 
 **Az első szintű címsor (általában főcím) stílusa**
 
-Középre igazított szöveg.
-Világoszöld háttérszín.
-Fehér szövegszín.
-Belső margó minden oldalon 1.5em.
-Alsó margó: 2em.
-Betűméret: nagy (3em).
+Középre igazított szöveg. W
+Világoszöld háttérszín. W
+Fehér szövegszín. W
+Belső margó minden oldalon 1.5em. W
+Alsó margó: 2em. W
+Betűméret: nagy (3em). W
 
 **A cikk (fő tartalmi blokk) stílusa**:
 
-Maximális szélesség: 900 pixel.
-Automatikus középre igazítás.
-Belső margó balra-jobbra: 1em.
+Maximális szélesség: 900 pixel. W
+Automatikus középre igazítás. W
+Belső margó balra-jobbra: 1em. W
 
 **Egy-egy szakasz formázása**:
 
-#e6fef1; – Világoszöld háttérszín.
-#10b981; – Bal oldalon vastag zöld sáv (keret).
-Belső margó minden oldalon.
-Alsó margó: 2em.
-Lekerekített sarkok.
+#e6fef1; – Világoszöld háttérszín.  W
+#10b981; – Bal oldalon vastag zöld sáv (keret). W
+Belső margó minden oldalon. W
+Alsó margó: 2em. W
+Lekerekített sarkok. W
 
-box-shadow: 0 0 15px rgba(16, 185, 129, 0.1); – Finom zöldes árnyék.
+box-shadow: 0 0 15px rgba(16, 185, 129, 0.1); – Finom zöldes árnyék. W
 
 **A .szoveg osztályú konténer rácsos elrendezése**:
 
@@ -66,11 +66,11 @@ helyezd el a tartalomat két egyenlő  szélességű oszlopban.
 
 **Másodszintű címsor (alcím) stílusa**:
 
-#065f46; – Sötétzöld szövegszín.
+#065f46; – Sötétzöld szövegszín. W
 
 Nincs felső margó.
 
-1.8rem; – Kicsit nagyobb betűméret.
+1.8rem; – Kicsit nagyobb betűméret. W
 
 **A .szoveg osztályon belüli bekezdések**:
 
